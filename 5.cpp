@@ -13,8 +13,8 @@ struct student
 
 int main(void)
 {
-    int n = 0;       
-    int count = 0;    
+    int n = 0;
+    int count = 0;
     struct student* stud = NULL;
     char buf[20];
     char searchFamil[20] = { 0 };
